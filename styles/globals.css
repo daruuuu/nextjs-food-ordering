@@ -23,3 +23,7 @@ a {
 .primary-button {
   @apply bg-rose-600 text-white py-2 px-5 rounded-3xl hover:bg-rose-700 active:bg-rose-900;
 }
+
+.default-button {
+  @apply bg-gray-200 text-gray-700 py-2 px-5 rounded-3xl hover:bg-gray-300 active:bg-gray-400;
+}
