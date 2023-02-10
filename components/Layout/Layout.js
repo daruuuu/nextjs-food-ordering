@@ -22,7 +22,7 @@ const Layout = (props) => {
               </p>
             </Link>
             <div className="mx-auto hidden w-full justify-center md:flex">
-              <Link href="/home">
+              <Link href="/">
                 <p className="p-2 ">Home</p>
               </Link>
               <Link href="/menu">

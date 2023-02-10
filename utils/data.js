@@ -51,6 +51,16 @@ const data = {
       status: "available",
     },
     {
+      name: "Tori Baitan Udon",
+      slug: "tori-baitan-udon",
+      category: "Udon",
+      image: "/images/tori-baitan-udon.jpg",
+      price: 31.0,
+      description:
+        "Mie udon dengan sup ayam dan bakso ayam yang gurih dengan daun bawang.",
+      status: "available",
+    },
+    {
       name: "Tendon Rice",
       slug: "tendon-rice",
       category: "Rice",

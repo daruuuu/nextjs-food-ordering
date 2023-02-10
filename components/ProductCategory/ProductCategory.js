@@ -25,9 +25,7 @@ const ProductCategory = (props) => {
           className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 cursor-pointer"
         >
           <img
-            className="rounded-t-lg max-h-60 object-cover object-center 
-            max-w-xs
-            "
+            className="rounded-t-lg object-cover object-center max-w-xs max-h-40 md:max-h-60"
             src={item.image}
             alt={item.name}
           />
